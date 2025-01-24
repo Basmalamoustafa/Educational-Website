@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\database.bundle.scp.css",
+      "PackagePath": "staticwebassets\\database.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\assets.css",
+      "PackagePath": "staticwebassets\\css\\assets.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\color\\color-1.css",
+      "PackagePath": "staticwebassets\\css\\color\\color-1.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\accordion.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\accordion.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\alert.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\alert.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\breadcrumb.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\button.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\button.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\divider.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\divider.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\form.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\icon-box.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\icon-box.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\layout.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\list.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\list.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\overlay.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\overlay.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\owl.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\pagination.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\pagination.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\pricingtable.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\pricingtable.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\separator.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\separator.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\shortcodes.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\shortcodes.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\shortcodes\\widget.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes\\widget.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\css\\typography.css",
+      "PackagePath": "staticwebassets\\css\\typography.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\about\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\courses\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\courses\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\courses\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\courses\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\courses\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\courses\\pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\courses\\pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\courses\\pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\courses\\pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\logo-mobile.png",
+      "PackagePath": "staticwebassets\\images\\logo-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\testimonials\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\testimonials\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\images\\testimonials\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\js\\functions.js",
+      "PackagePath": "staticwebassets\\js\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ali Nazeer\\source\\repos\\database\\database\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.database.props",
+      "PackagePath": "build\\database.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.database.props",
+      "PackagePath": "buildMultiTargeting\\database.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.database.props",
+      "PackagePath": "buildTransitive\\database.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.database.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
