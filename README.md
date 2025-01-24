@@ -7,7 +7,7 @@ The platform also features a support system for both students and instructors, e
 
 Key Features
 
-For Students
+For Students: 
 Rate instructors.
 Subscribe to courses and make payments.
 Access courses by category.
@@ -15,7 +15,7 @@ Track progress for enrolled courses.
 Participate in discussion forums with peers and instructors.
 Receive notifications for new tasks or progress updates.
 Access a support system for assistance.
-For Instructors
+For Instructors: 
 Create new courses.
 Upload, access, and delete course content.
 Add comments and homework assignments to courses.
