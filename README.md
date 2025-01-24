@@ -1,6 +1,5 @@
 **Educational Website**
 
-Description
 
 This project is an educational platform designed to cater to both instructors and students. It provides students with an engaging learning experience, enabling them to rate their instructors, subscribe to courses, make payments, track progress, and participate in discussions. Instructors can create and manage courses, upload content, assign homework, and communicate with students.
 
