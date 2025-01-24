@@ -1,0 +1,1 @@
+An educational platform for students and instructors. Students can rate instructors, subscribe/pay for courses, track progress, join forums, and get notifications. Instructors can create/edit courses, upload videos, assign homework, and chat in forums. Both have access to support.
